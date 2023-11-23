@@ -73,13 +73,15 @@ h1{
     margin: 10px 0px;
 }
 .photo {
-    width: 300px;
+    width: 30%;
     margin-left: 25px;
     margin-top: 20px;
 }
-
 .photo img {
     width: 70%;
+}
+.data{
+    width: 65%;
 }
 .logo {
     width: 152px;
